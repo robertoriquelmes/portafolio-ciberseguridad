@@ -11,6 +11,18 @@ _Proyecto práctico de Pyton enfocado en Ciberseguridad_
 
 - Es una serie de retos a completar, donde el objetivo no solo es aprender Python, sino que también herramientas de Ciberseguridad que se enfocan en Análisis Forense Digital y Respuesta a Incidentes. 
 
+## 🗂️ Estructura del portafolio
+
+- **Fase 0 — Git y GitHub**: Fundamentos de control de versiones
+- **Fase 1 — Python**: Fundamentos del lenguaje aplicados a seguridad
+- **Fase 2 — Proyectos DFIR**: Portafolio real (logs, forense de disco/memoria/red, caso simulado)
+
+## ✅ Progreso
+
+- [x] Fase 0 — Git y GitHub
+- [ ] Fase 1 — Python Fundamentos
+- [ ] Fase 2 — Proyectos DFIR
+
 
 ## 👤 Autor
 
